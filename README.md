@@ -34,13 +34,7 @@ APS V2 is built on institutional-grade smart contract standards:
 * **Phase 2 (Q3 2026):** AI-driven threat detection using decentralized off-chain oracles.
 * **Phase 3 (Q4 2026):** Full XCM v4 integration for seamless multi-chain asset migration and native Substrate implementation.
 
----
 
-## 📜 Contract Details
-* **Project Status:** 100% Score Candidate - DoraHacks Polkadot Hackathon 2026.
-* **Language:** Solidity 0.8.24
-* **License:** MIT
-* **Framework:** Somnia Reactivity Framework
 
 ---
 *Developed for the Polkadot Solidity Hackathon 2026.*
